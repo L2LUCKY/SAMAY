@@ -81,7 +81,7 @@ if os.path.exists("Config.env"):
 API_ID = int(getenv("API_ID", "25609334"))
 API_HASH = getenv("API_HASH", "ad0ff353206ea1ebce1ab8bfca9f3f7b")
 BOT_TOKEN = getenv("BOT_TOKEN", "7532425557:AAGv6DCIjPoX0xiWMwCs6ybCJBBqE0x1NzY")
-STRING_SESSION = getenv("STRING_SESSION", "")
+STRING_SESSION = getenv("STRING_SESSION", "BQGt9tsAlUezTyE3NXPzgyhZ58zkS8IcG2bdCq2IM43OBYqIWQe2FvASn0w-spivpvcLyjvxFhKQWdCL_gcK_XTu_41izKR21kd48DpRKt36AaHdxdf1RB6P54MhVWNMCaGvAwqdU9UMajcdl-j95zPZ42gOvaehq-MEI-1gUeKcd_fpSis5IO4MiPsJpQTtdphra9SDVqd1afc5fneiczrIQ3MHX21EZVT3-HEc2o0NumIpYjuTKmaVGTShMPtRaJHkos-f3mudmUQTvD8xmqCrrctYJglEQr3zxektJ0DYYcjfj_wNYwP_CmgQuMO98010gbbSmOF1WxKZMpCly0teia2YBwAAAAFC8M17AA")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "")
 OWNER_ID = int(getenv("OWNER_ID", ""))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001947334164"))
